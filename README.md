@@ -9,11 +9,14 @@ sorting_web_app/
     └── script.js
 
 Install packages:
-  pip install Flask Flask-SocketIO eventlet
+    pip install Flask Flask-SocketIO eventlet
 
 RUN APPLICATION BY...  
-  python app.py
+    python app.py
 
 once the application is running, go to your local host url: 
-  http://localhost:5000/
+    http://localhost:5000/
+
+IG POST SHOWING THE APP: 
+    https://www.instagram.com/reel/DBuPX6eKpCK/?utm_source=ig_web_copy_link
 
